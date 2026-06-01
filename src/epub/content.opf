@@ -37,25 +37,25 @@
 		<meta property="file-as" refines="#fulltitle">Chance</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Sea stories</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85119251</meta>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85108438</meta>
 		<dc:subject id="subject-3">Young women -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-3">LCHS</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008114026</meta>
 		<dc:subject id="subject-4">Love stories</dc:subject>
-		<meta property="authority" refines="#subject-4">LCHS</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<dc:subject id="subject-5">Fathers and daughters -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-5">LCHS</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008103515</meta>
 		<dc:subject id="subject-6">Children of prisoners -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-6">LCHS</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008100495</meta>
 		<dc:subject id="subject-7">Ship captains' spouses -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-7">LCHS</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2010112948</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The daughter of a banker jailed for fraud spontanously decides to marry a sea captain after a brief encounter.</dc:description>
