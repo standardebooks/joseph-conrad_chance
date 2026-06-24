@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-1-2.xhtml">
+		<ignore code="t-003">
+			<line>163</line>
+			<reason>Dialog from the same speaker spans multiple paragraphs.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-3.xhtml">
+		<ignore code="t-003">
+			<line>94</line>
+			<reason>Dialog from the same speaker spans multiple paragraphs.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-4.xhtml">
+		<ignore code="t-003">
+			<line>106</line>
+			<reason>Dialog from the same speaker spans multiple paragraphs.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-5.xhtml">
+		<ignore code="t-003">
+			<line>157</line>
+			<reason>Dialog from the same speaker spans multiple paragraphs.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-6.xhtml">
+		<ignore code="t-003">
+			<line>155</line>
+			<reason>Dialog from the same speaker spans multiple paragraphs.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-1.xhtml">
+		<ignore code="t-003">
+			<line>73</line>
+			<reason>Dialog from the same speaker spans multiple paragraphs.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-2.xhtml">
+		<ignore code="t-003">
+			<line>101</line>
+			<reason>Dialog from the same speaker spans multiple paragraphs.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-4.xhtml">
+		<ignore code="t-003">
+			<line>106</line>
+			<reason>Dialog from the same speaker spans multiple paragraphs.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-5.xhtml">
+		<ignore code="t-003">
+			<line>291</line>
+			<reason>Dialog from the same speaker spans multiple paragraphs.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-2-6.xhtml">
 		<ignore code="t-003">
 			<reason>Dialog from the same speaker spans multiple paragraphs.</reason>
