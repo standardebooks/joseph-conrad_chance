@@ -59,7 +59,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2010112948</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>The daughter of a banker jailed for fraud spontanously decides to marry a sea captain after a brief encounter.</dc:abstract>
+		<meta property="schema:abstract">The daughter of a banker jailed for fraud spontanously decides to marry a sea captain after a brief encounter.</meta>
 		<dc:description>
 			&lt;p&gt;Flora de Barral is the daughter of a successful banker. When he’s tried and convicted of fraud, her prosperous life turns miserable. While on the brink of suicide, she meets an older sea captain and marries him as a means of escape. Her dramatic life is recounted by several characters, but mainly by Marlow, &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Conrad’s&lt;/a&gt; favorite recurring narrator.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Chance&lt;/i&gt;, serialized in 1912 and published as a book the following year, is Conrad’s only novel with a female protagonist. It was also his first commercially successful novel, despite its complex narrative structure.&lt;/p&gt;
