@@ -84,10 +84,10 @@
 		<dc:contributor id="artist">Frank Weston Benson</dc:contributor>
 		<meta property="file-as" refines="#artist">Benson, Frank Weston</meta>
 		<link href="https://en.wikipedia.org/wiki/Frank_Weston_Benson" refines="#artist" rel="schema:sameAs"/>
-		<link href="http://id.loc.gov/rwo/agents/n80120832" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n80120832.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">David, Price</meta>
+		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Szymon Szott</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Szott, Szymon</meta>
